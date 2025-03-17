@@ -1,2 +1,7 @@
 # SecureChatSSD
-Solution for Assignment for developing a secure two way chat system.
+Solution for Assignment for developing a secure two way chat system.  
+  
+  
+
+
+
